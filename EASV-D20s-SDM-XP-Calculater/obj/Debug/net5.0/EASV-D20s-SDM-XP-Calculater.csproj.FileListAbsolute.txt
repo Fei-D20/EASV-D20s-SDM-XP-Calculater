@@ -1,15 +1,3 @@
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/bin/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.deps.json
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/bin/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.dll
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/bin/Debug/net5.0/ref/EASV-D20s-SDM-XP-Calculater.dll
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/bin/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.pdb
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/obj/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.csproj.AssemblyReference.cache
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/obj/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.GeneratedMSBuildEditorConfig.editorconfig
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/obj/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.AssemblyInfoInputs.cache
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/obj/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.AssemblyInfo.cs
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/obj/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.csproj.CoreCompileInputs.cache
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/obj/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.dll
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/obj/Debug/net5.0/ref/EASV-D20s-SDM-XP-Calculater.dll
-C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/obj/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.pdb
 /Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/bin/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.deps.json
 /Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/bin/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.dll
 /Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/bin/Debug/net5.0/ref/EASV-D20s-SDM-XP-Calculater.dll
@@ -22,3 +10,15 @@ C:/Rider/RiderProjects/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/o
 /Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/obj/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.dll
 /Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/obj/Debug/net5.0/ref/EASV-D20s-SDM-XP-Calculater.dll
 /Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/obj/Debug/net5.0/EASV-D20s-SDM-XP-Calculater.pdb
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\bin\Debug\net5.0\EASV-D20s-SDM-XP-Calculater.deps.json
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\bin\Debug\net5.0\EASV-D20s-SDM-XP-Calculater.dll
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\bin\Debug\net5.0\ref\EASV-D20s-SDM-XP-Calculater.dll
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\bin\Debug\net5.0\EASV-D20s-SDM-XP-Calculater.pdb
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\obj\Debug\net5.0\EASV-D20s-SDM-XP-Calculater.csproj.AssemblyReference.cache
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\obj\Debug\net5.0\EASV-D20s-SDM-XP-Calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\obj\Debug\net5.0\EASV-D20s-SDM-XP-Calculater.AssemblyInfoInputs.cache
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\obj\Debug\net5.0\EASV-D20s-SDM-XP-Calculater.AssemblyInfo.cs
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\obj\Debug\net5.0\EASV-D20s-SDM-XP-Calculater.csproj.CoreCompileInputs.cache
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\obj\Debug\net5.0\EASV-D20s-SDM-XP-Calculater.dll
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\obj\Debug\net5.0\ref\EASV-D20s-SDM-XP-Calculater.dll
+C:\Rider\RiderProjects\EASV-D20s-SDM-XP-Calculater\EASV-D20s-SDM-XP-Calculater\obj\Debug\net5.0\EASV-D20s-SDM-XP-Calculater.pdb

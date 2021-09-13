@@ -4969,19 +4969,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/Evens/.nuget/packages/": {}
+    "C:\\Users\\tolna\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/UnitTestProject/UnitTestProject.csproj",
+      "projectUniqueName": "C:\\Rider\\RiderProjects\\EASV-D20s-SDM-XP-Calculater\\UnitTestProject\\UnitTestProject.csproj",
       "projectName": "UnitTestProject",
-      "projectPath": "/Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/UnitTestProject/UnitTestProject.csproj",
-      "packagesPath": "/Users/Evens/.nuget/packages/",
-      "outputPath": "/Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/UnitTestProject/obj/",
+      "projectPath": "C:\\Rider\\RiderProjects\\EASV-D20s-SDM-XP-Calculater\\UnitTestProject\\UnitTestProject.csproj",
+      "packagesPath": "C:\\Users\\tolna\\.nuget\\packages\\",
+      "outputPath": "C:\\Rider\\RiderProjects\\EASV-D20s-SDM-XP-Calculater\\UnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/Evens/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\tolna\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -4993,8 +4993,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater.csproj": {
-              "projectPath": "/Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater.csproj"
+            "C:\\Rider\\RiderProjects\\EASV-D20s-SDM-XP-Calculater\\EASV-D20s-SDM-XP-Calculater\\EASV-D20s-SDM-XP-Calculater.csproj": {
+              "projectPath": "C:\\Rider\\RiderProjects\\EASV-D20s-SDM-XP-Calculater\\EASV-D20s-SDM-XP-Calculater\\EASV-D20s-SDM-XP-Calculater.csproj"
             }
           }
         }
@@ -5041,7 +5041,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\tolna\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
