@@ -73,16 +73,18 @@ namespace UnitTestProject
         public void SubtractTest2()
         {
             IFIntCalculator c = new IntCalculator();
-            c.Subtract(int.MaxValue);  
+            c.Add(int.MinValue);  
             int oldResult = c.Result;
             var ex = Assert.Throws<InvalidOperationException>((() => c.Subtract(1)));
             Assert.AreEqual("the value is overflow like to max", ex.Message); 
             Assert.AreEqual(oldResult,c.Result);
         }
+        
+        [Test]
         public void SubtractTest3()
         {
             IFIntCalculator c = new IntCalculator();
-            c.Subtract(int.MinValue);  
+            c.Add(int.MaxValue);  
             int oldResult = c.Result;
             var ex = Assert.Throws<InvalidOperationException>((() => c.Subtract(-1)));
             Assert.AreEqual("underflow", ex.Message); 
