@@ -7,6 +7,10 @@ namespace UnitTestProject
     
     public class Tests
     {
+        #region AddTest
+
+        
+
         [Test]
         public void AddValidNumber()
         {
@@ -46,6 +50,9 @@ namespace UnitTestProject
             Assert.AreEqual(oldResult,c.Result);
         }
         
+        #endregion
+
+        #region substract
         [Test]
         public void SubtractTest()
         {
@@ -68,10 +75,13 @@ namespace UnitTestProject
             IFIntCalculator c = new IntCalculator();
             c.Add(int.MinValue);
             int oldResult = c.Result;
-            var ex = Assert.Throws<InvalidOperationException>((() => c.Add(-1)));
+            var ex = Assert.Throws<InvalidOperationException>((() => c.Subtract(1)));
             Assert.AreEqual("UnderFlow Boy", ex.Message); 
             Assert.AreEqual(oldResult,c.Result);
         }
+        
+        #endregion
+
         
         [Test]
         public void MultiplyTest()

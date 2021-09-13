@@ -29,7 +29,11 @@ namespace EASV_D20s_SDM_XP_Calculater
 
         public void Subtract(int x)
         {
-           Result -= x;
+            if (x > 0 && (Result - x) > Result)
+                throw new InvalidOperationException("the value is overflow like to max");
+            if (x < 0 && (Result - x) < Result)
+                throw new InvalidOperationException("underflow");
+            Result -= x;
         }
 
         public void Multiply(int x)
