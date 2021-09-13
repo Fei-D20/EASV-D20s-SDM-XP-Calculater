@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EASV-D20s-SDM-XP-Calculater/1.0.0": {
+        "runtime": {
+          "EASV-D20s-SDM-XP-Calculater.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EASV-D20s-SDM-XP-Calculater/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

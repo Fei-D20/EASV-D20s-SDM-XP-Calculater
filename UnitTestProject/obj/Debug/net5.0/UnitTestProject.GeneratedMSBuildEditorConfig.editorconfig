@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = EASV_D20s_SDM_XP_Calculater
-build_property.ProjectDir = /Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/EASV-D20s-SDM-XP-Calculater/
+build_property.RootNamespace = UnitTestProject
+build_property.ProjectDir = /Users/Evens/EASV/3.semenster/SDM-Software Developlment Method/Code/Assignment/EASV-D20s-SDM-XP-Calculater/UnitTestProject/

@@ -45,7 +45,7 @@ namespace UnitTestProject
             IFIntCalculator c = new IntCalculator();
             c.Add(int.MinValue);
             int oldResult = c.Result;
-            var ex = Assert.Throws<InvalidOperationException>((() => c.Subtract(-1)));
+            var ex = Assert.Throws<InvalidOperationException>((() => c.Add(-1)));
             Assert.AreEqual("UnderFlow Boy", ex.Message); 
             Assert.AreEqual(oldResult,c.Result);
         }
