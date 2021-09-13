@@ -63,6 +63,17 @@ namespace UnitTestProject
         }
         
         [Test]
+        public void SubtractTest2()
+        {
+            IFIntCalculator c = new IntCalculator();
+            c.Add(int.MinValue);
+            int oldResult = c.Result;
+            var ex = Assert.Throws<InvalidOperationException>((() => c.Add(-1)));
+            Assert.AreEqual("UnderFlow Boy", ex.Message); 
+            Assert.AreEqual(oldResult,c.Result);
+        }
+        
+        [Test]
         public void MultiplyTest()
         {
             //Arrange
@@ -101,7 +112,7 @@ namespace UnitTestProject
             IFIntCalculator c = new IntCalculator();
             c.Divide(int.MinValue);
             int oldResult = c.Result;
-            var ex = Assert.Throws<InvalidOperationException>((() => c.Divide(1)));
+            var ex = Assert.Throws<InvalidOperationException>((() => c.Divide(0)));
             Assert.AreEqual("Value Can not be 0", ex.Message);
             Assert.AreEqual(oldResult,c.Result);
             
@@ -112,13 +123,13 @@ namespace UnitTestProject
         {
             IFIntCalculator c = new IntCalculator();
             int x = 4;
-            int oldResut = x;
+            x = c.Result;
             int expected = 0;
             
             //act
             c.Reset();
             
-            Assert.AreEqual(expected, c.Result);
+            Assert.AreEqual(expected, x);
         }
     }
 }
