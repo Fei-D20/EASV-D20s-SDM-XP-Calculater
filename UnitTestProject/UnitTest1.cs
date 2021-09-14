@@ -93,7 +93,11 @@ namespace UnitTestProject
         
         #endregion
 
+
+        #region Multiply
+
         
+
         [Test]
         public void MultiplyTest()
         {
@@ -109,6 +113,10 @@ namespace UnitTestProject
             //Assert
             Assert.AreEqual(expected, c.Result);
         }
+        
+        
+        
+        #endregion
         
         [Test]
         public void DivideTest()
